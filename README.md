@@ -19,7 +19,7 @@ Hi 👋, my name is Oktay Shakirov and I'm from Berlin, Germany. As a Full-Stack
 <img src="./images/whatsapp.png"></img></a>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oktayshakirov&show_icons=true&locale=en&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb" alt="stats" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=oktayshakirov&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="streak" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=oktayshakirov&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="streak" align="center" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oktayshakirov&show_icons=true&locale=en&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb" alt="stats" align="center" /></p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=oktayshakirov&label=Profile%20views&color=0e75b6&style=flat" alt="oktayshakirov" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=oktayshakirov&label=Profile%20views&color=0e75b6&style=flat" alt="oktayshakirov" align="center" /> </p>
