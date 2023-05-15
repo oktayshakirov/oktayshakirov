@@ -4,5 +4,20 @@
 - 👨‍💻 All of my projects and ways to connect with me at [oktayshakirov.com](oktayshakirov.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oktayshakirov&show_icons=true&locale=en&layout=compact" alt="oktayshakirov" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oktayshakirov&label=Profile%20views&color=0e75b6&style=flat" alt="oktayshakirov" /> </p>
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=oktayshakirov&label=Profile%20views&color=0e75b6&style=flat" alt="oktayshakirov" /> </p>
 
+ <a href="https://www.linkedin.com/in/oktayshakirov" class="socials-item">
+<img src="./assets/images/socials/linkedin.png"></img></a>
+
+<a href="https://www.instagram.com/oktay.shakirov/" class="socials-item">
+<img src="./assets/images/socials/instagram.png"></img></a>
+        
+<a href="https://www.facebook.com/ok.shakirov/" class="socials-item">
+<img src="./assets/images/socials/facebook.png"></img></a>
+
+<a href="https://twitter.com/oktayshakirov" class="socials-item">
+<img src="./assets/images/socials/twitter.png"></img></a>
+        
+<a href="https://wa.me/00491635473192" class="socials-item">
+<img src="./assets/images/socials/whatsapp.png"></img></a>
+        
