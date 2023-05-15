@@ -13,8 +13,6 @@ My name is Oktay Shakirov and I'm from Berlin, Germany. As a Full-Stack software
 ---
 ## :link: You can also find me on:
 <p align="center">
-<a href="mailto:oktayshakirov@gmail.com" class="socials-item">
-<img src="./images/email.png"></img></a>
 
 <a href="https://www.linkedin.com/in/oktayshakirov" class="socials-item">
 <img src="./images/linkedin.png"></img></a>
