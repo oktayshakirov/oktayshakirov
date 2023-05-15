@@ -28,6 +28,12 @@ My name is Oktay Shakirov and I'm from Berlin, Germany. As a Full-Stack software
 <img src="./images/whatsapp.png"></img></a>
 <p>
 
+<p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi 👋, I'll be happy to meet you more!</b> :)</em></p>
+
+---
+## :computer: My Skills:
+<img src="./images/skills.png"></img></a>
+
 ---
 ## :bar_chart: Github Stats:
 <p align="center">
