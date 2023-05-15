@@ -1,9 +1,14 @@
 ## 👋 Hello World!
 
 My name is Oktay Shakirov, a Full-Stack dev from Berlin, Germany. 
-All of my projects and ways to connect with me at my page: [oktayshakirov.com](https://oktayshakirov.com)
 
- ---
+---
+## :bowtie: My Website / Portfolio:
+
+<a href="https://oktayshakirov.com" class="website">
+<img src="./images/website.png"></img></a>
+
+---
 
 ## :link: Socials:
 
@@ -22,9 +27,9 @@ All of my projects and ways to connect with me at my page: [oktayshakirov.com](h
 <a href="https://wa.me/00491635473192" class="socials-item">
 <img src="./images/whatsapp.png"></img></a>
 
- ---
+---
 
- ## :bar_chart: Github Stats:
+## :bar_chart: Github Stats:
 
 <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=oktayshakirov&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="streak"/> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=oktayshakirov&show_icons=true&locale=en&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb" alt="stats"/> 
 
