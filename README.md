@@ -1,6 +1,6 @@
 ## 👋 Hello World!
 
-My name is Oktay Shakirov, a Full-Stack dev from Berlin, Germany. 
+My name is Oktay Shakirov and I'm from Berlin, Germany. As a Full-Stack software developer, I specialize in creating websites, apps, and mobile games that are not only functional but also visually appealing. My passion for graphic design is evident in every project I work on.
 
 ---
 ## :bowtie: My Website / Portfolio:
