@@ -4,5 +4,73 @@
 - 👨‍💻 All of my projects and ways to connect with me at [oktayshakirov.com](oktayshakirov.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oktayshakirov&show_icons=true&locale=en&layout=compact" alt="oktayshakirov" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oktayshakirov&label=Profile%20views&color=0e75b6&style=flat" alt="oktayshakirov" /> </p>
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=oktayshakirov&label=Profile%20views&color=0e75b6&style=flat" alt="oktayshakirov" /> </p>
 
+ <!-- Social Links -->
+    <div class="languages-list content-card">
+    <h3 class="h3 form-title" align="center">Socials:</h3>
+
+    <ul class="social-list">
+
+        <li class="social-item">
+        <a href="https://github.com/oktayshakirov" class="socials-item">
+        <img src="./assets/images/socials/github.png"></img>
+        </a>
+        </li>
+
+        <li class="social-item">
+        <a href="https://www.linkedin.com/in/oktayshakirov" class="socials-item">
+        <img src="./assets/images/socials/linkedin.png"></img>
+        </a>
+        </li>
+
+        <li class="social-item">
+        <a href="https://www.instagram.com/oktay.shakirov/" class="socials-item">
+        <img src="./assets/images/socials/instagram.png"></img>
+        </a>
+        </li>
+
+        <li class="social-item">
+        <a href="https://www.facebook.com/ok.shakirov/" class="socials-item">
+        <img src="./assets/images/socials/facebook.png"></img>
+        </a>
+        </li>
+
+        <li class="social-item">
+        <a href="https://twitter.com/oktayshakirov" class="socials-item">
+        <img src="./assets/images/socials/twitter.png"></img>
+        </a>
+        </li>
+
+        <li class="social-item">
+        <a href="https://wa.me/00491635473192" class="socials-item">
+        <img src="./assets/images/socials/whatsapp.png"></img>
+        </a>
+        </li>
+        </ul>
+        </div>
+        <br>
+
+        <!-- Calendly popup widget -->
+        <div class="languages-list content-card">
+        <h3 class="h3 form-title" align="center">Schedule Video Call with me:</h3>
+        <br>
+        <center>
+        <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+        <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+        <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/oktayshakirov/30min?hide_landing_page_details=1&hide_gdpr_banner=1'});return false;">
+        <img src="./assets/images/calendar.png"></img></a>
+        </center>
+        </div>
+        <br>
+
+        <!-- Copy Email Address -->
+        <div class="languages-list content-card">
+        <h3 class="h3 form-title" align="center">Email:</h3>
+        <div class="container">
+        <div class="email-field">
+        <div class="email-text">oktayshakirov@gmail.com</div>
+        <button class="copy-button" onclick="copyEmail()">Copy</button>
+        </div>
+        </div>
+        </div>
