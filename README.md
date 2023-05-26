@@ -28,9 +28,7 @@ My name is Oktay Shakirov and I'm from Berlin, Germany. As a Full-Stack software
 <a href="https://twitter.com/oktayshakirov" class="socials-item">
 <img src="./images/twitter.png"></img></a>
         
-<p>
-
-<p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi 👋, I'll be happy to talk to you!</b> :)</em></p>
+</p>
 
 ---
 
