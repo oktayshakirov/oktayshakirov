@@ -10,7 +10,7 @@ My name is Oktay Shakirov and I'm from Berlin, Germany. As a Full-Stack software
 
 <p align="center">
 <a href="https://oktayshakirov.com" class="website">
-<img src="./images/website.png" width="70%"></img></a>
+<img src="./images/website.png" width="30%"></img></a>
 </p>
 
 ---
