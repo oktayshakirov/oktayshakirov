@@ -6,11 +6,11 @@ My name is Oktay Shakirov and I'm from Berlin, Germany. As a Full-Stack software
 
 ---
 
-## :bowtie: My Website / Portfolio:
+## :bowtie: My Portfolio:
 
 <p align="center">
 <a href="https://oktayshakirov.com" class="website">
-<img src="./images/website.png"></img></a>
+<img src="./images/website.png" width="70%"></img></a>
 </p>
 
 ---
@@ -47,7 +47,6 @@ My name is Oktay Shakirov and I'm from Berlin, Germany. As a Full-Stack software
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
 </div>
 
 ---
