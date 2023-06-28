@@ -1,19 +1,16 @@
-## 👋 Hello World!
+## <img src="./images/wave.svg" height="30" width="30" alt="👋" title="👋" /> Hello World! 
 
 <p align="center">
-Hello World! My name is Oktay Shakirov <img src="./images/wave.svg" height="30" width="30" alt="👋" title="👋" />
-
-As a Full-Stack software developer, I specialize in creating websites, apps, and mobile games that are not only functional but also visually appealing. My passion for graphic design is evident in every project I work on. More about me and my projects you can find on my website bellow.
+My name is Oktay Shakirov and I'm from Berlin, Germany. As a Full-Stack software developer, I specialize in creating websites, apps, and mobile games that are not only functional but also visually appealing. My passion for graphic design is evident in every project I work on. More about me and my projects you can find on my website bellow.
 </p>
-
 
 ---
 
-## :bowtie: My Portfolio:
+## :bowtie: My Website / Portfolio:
 
 <p align="center">
 <a href="https://oktayshakirov.com" class="website">
-<img src="./images/website.png" width="30%"></img></a>
+<img src="./images/website.png"></img></a>
 </p>
 
 ---
@@ -40,7 +37,6 @@ As a Full-Stack software developer, I specialize in creating websites, apps, and
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="node logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
@@ -50,6 +46,7 @@ As a Full-Stack software developer, I specialize in creating websites, apps, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
 </div>
 
 ---
