@@ -6,7 +6,7 @@ My name is Oktay Shakirov and I'm from Berlin, Germany. As a Full-Stack software
 
 ---
 
-## :bowtie: My Website / Portfolio:
+## :earth_americas: My Website / Portfolio:
 
 <p align="center">
 <a href="https://oktayshakirov.com" class="website">
