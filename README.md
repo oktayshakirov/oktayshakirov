@@ -1,7 +1,7 @@
 ## <img src="./images/wave.svg" height="27" width="27" alt="👋" title="👋" /> Hello World! 
 
 <p align="center">
-My name is Oktay Shakirov and I'm from Berlin, Germany. As a Full-Stack software developer, I specialize in creating websites, apps, and mobile games that are not only functional but also visually appealing. My passion for graphic design is evident in every project I work on. More about me and my projects you can find on my website bellow.
+My name is Oktay and I'm from Berlin, Germany. As a Full-Stack software developer, I specialize in creating visually appealing websites, apps and mobile games. My passion for graphic design isn't just a hobby, it's a key ingredient in every project I work on.
 </p>
 
 ---
