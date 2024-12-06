@@ -58,5 +58,5 @@ My name is Oktay and I'm from Berlin, Germany. As a Full-Stack software develope
 ## :bar_chart: Github Stats:
 
 <p align="center">
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=oktayshakirov&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="streak"/> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=oktayshakirov&show_icons=true&locale=en&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb" alt="stats"/> 
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=oktayshakirov&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="streak"/> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=oktayshakirov&show_icons=true&locale=en&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&hide=mdx" alt="stats"/> 
 </p>
