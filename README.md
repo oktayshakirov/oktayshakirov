@@ -17,20 +17,32 @@ My name is Oktay and I'm from Berlin, Germany. As a Full-Stack software develope
 
 ## :link: You can also find me on:
 
-<p align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/oktayshakirov" style="text-decoration: none !important;">
-    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin">
-  </a>
-  <a href="https://www.instagram.com/oktay.shakirov/" style="text-decoration: none !important;">
-    <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram">
-  </a>
-  <a href="https://twitter.com/oktayshakirov" style="text-decoration: none !important;">
-    <img alt="Twitter" src="https://skillicons.dev/icons?i=twitter">
-  </a>
-  <a href="mailto:oktayshakirov@gmail.com" style="text-decoration: none !important;">
-    <img alt="Email" src="https://skillicons.dev/icons?i=gmail">
-  </a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; margin: 0 auto;">
+  <tbody>
+    <tr>
+      <td style="padding: 0 8px;">
+        <a href="https://www.linkedin.com/in/oktayshakirov" style="text-decoration: none !important; border: none !important;">
+          <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin">
+        </a>
+      </td>
+      <td style="padding: 0 8px;">
+        <a href="https://www.instagram.com/oktay.shakirov/" style="text-decoration: none !important; border: none !important;">
+          <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram">
+        </a>
+      </td>
+      <td style="padding: 0 8px;">
+        <a href="https://twitter.com/oktayshakirov" style="text-decoration: none !important; border: none !important;">
+          <img alt="Twitter" src="https://skillicons.dev/icons?i=twitter">
+        </a>
+      </td>
+      <td style="padding: 0 8px;">
+        <a href="mailto:oktayshakirov@gmail.com" style="text-decoration: none !important; border: none !important;">
+          <img alt="Email" src="https://skillicons.dev/icons?i=gmail">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
