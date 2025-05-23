@@ -17,21 +17,19 @@ My name is Oktay and I'm from Berlin, Germany. As a Full-Stack software develope
 
 ## :link: You can also find me on:
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/oktayshakirov" class="socials-item">
-<img src="./images/linkedin.png"></img></a>
-
-<a href="https://www.instagram.com/oktay.shakirov/" class="socials-item">
-<img src="./images/instagram.png"></img></a>
-
-<a href="https://twitter.com/oktayshakirov" class="socials-item">
-<img src="./images/twitter.png"></img></a>
-
-<a href="mailto:oktayshakirov@gmail.com" class="socials-item">
-  <img src="./images/email.png" alt="Email"></img>
-</a>
-        
+<p align="center" dir="auto">
+  <a href="https://www.linkedin.com/in/oktayshakirov" style="text-decoration: none !important;">
+    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+  <a href="https://www.instagram.com/oktay.shakirov/" style="text-decoration: none !important;">
+    <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram">
+  </a>
+  <a href="https://twitter.com/oktayshakirov" style="text-decoration: none !important;">
+    <img alt="Twitter" src="https://skillicons.dev/icons?i=twitter">
+  </a>
+  <a href="mailto:oktayshakirov@gmail.com" style="text-decoration: none !important;">
+    <img alt="Email" src="https://skillicons.dev/icons?i=gmail">
+  </a>
 </p>
 
 ---
@@ -39,18 +37,7 @@ My name is Oktay and I'm from Berlin, Germany. As a Full-Stack software develope
 ## :computer: My Skills:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="node js logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="52" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,php,mysql,github,linux,unity,figma,blender" />
 </div>
 
 ---
