@@ -54,4 +54,8 @@ My name is Oktay and I'm from Berlin, Germany. As a Full-Stack software develope
 
 ---
 
+## :bar_chart: Github Stats:
 
+<p align="center">
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=oktayshakirov&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="streak"/> 
+</p>
