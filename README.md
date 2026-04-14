@@ -59,3 +59,19 @@ My name is Oktay and I'm from Berlin, Germany. As a Full-Stack software develope
 <p align="center">
 <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=oktayshakirov&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="streak"/> 
 </p>
+
+---
+
+## :rocket: Featured Projects
+
+| Project | Tech | What I built |
+| --- | --- | --- |
+| [Drone Pal](https://github.com/oktayshakirov/drone-app) | React Native, Expo, TypeScript, NativeWind, WeatherKit | Pre-flight drone assistant with real-time Go/No-Go safety scoring, weather signals, and no-fly planning support. |
+| [Portfolio](https://github.com/oktayshakirov/portfolio) | HTML, CSS, JavaScript | Fully responsive personal portfolio with polished UI, project showcase, and production-ready analytics setup. |
+| [Couples Card Game](https://github.com/oktayshakirov/couples-card-game) | React Native, Expo, TypeScript | Two-player truth-or-dare app with smooth swipe gameplay, turn-based flow, and live player statistics. |
+| [Snowman Run](https://github.com/oktayshakirov/snowman-run) | Unity, C# | Endless mobile runner with dynamic difficulty, obstacle system, and unlockable customization progression. |
+| [TinnitusHelp App](https://github.com/oktayshakirov/tinnitus-app) | React Native, Expo, Firebase | Wellness app with educational content, calming soundscapes, mindfulness features, and push notifications. |
+| [Crypto Wiki App](https://github.com/oktayshakirov/crypto-wiki-app) | React Native, Expo, TypeScript | Mobile companion for crypto learning with article-driven content and a clean, reader-friendly UX. |
+| [TinnitusHelp Website](https://github.com/oktayshakirov/tinnitus-blog) | Next.js, TypeScript, Material UI | Content-focused health website with responsive design, structured articles, and integrated therapeutic audio sections. |
+| [Crypto Wiki Website](https://github.com/oktayshakirov/crypto-wiki) | MDX, Content Collections, Web Platform | Educational crypto website focused on readable guides, topic organization, and scalable content publishing. |
+| [Hello Berlin 365](https://github.com/oktayshakirov/helloberlin365) | TypeScript, Web Stack | Tourism and city-discovery website focused on curated local experiences, practical info, and mobile-friendly browsing. |
