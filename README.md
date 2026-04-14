@@ -76,3 +76,4 @@ My name is Oktay and I'm from Berlin, Germany. As a Full-Stack software develope
 | [Hello Berlin 365](https://github.com/oktayshakirov/helloberlin365) | Next.js, TypeScript, Tailwind, shadcn/ui               | Creative agency website offering digital services for small businesses in Berlin, with clear packages and contact flow.   |
 | [Shape Beats](https://github.com/oktayshakirov/drum-pad-app)        | React Native, TypeScript, RevenueCat                   | Drum pad app with self produced sound packs, metronome, customizable pads and real-time beat-making workflow.             |
 | [Portfolio](https://github.com/oktayshakirov/portfolio)             | HTML, CSS, JavaScript                                  | Fully responsive personal portfolio with polished UI, project showcase, professional resume section and contact options.  |
+| [All Projects](https://github.com/oktayshakirov?tab=repositories)   |
